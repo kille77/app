@@ -6,3 +6,5 @@ python-dotenv
 eventlet
 gunicorn
 Werkzeug
+psycopg2
+
