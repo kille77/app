@@ -1,3 +1,6 @@
+import eventlet
+eventlet.monkey_patch()  # Add this before any other imports
+
 import os
 import uuid
 from flask import Flask, render_template, request, jsonify, send_from_directory
