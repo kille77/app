@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-SocketIO
+Flask-Migrate
+python-dotenv
+eventlet
+gunicorn
+Werkzeug
